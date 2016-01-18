@@ -1,4 +1,5 @@
 /*  Created on 2016-01-15 for RobotShop by scharette.
+	Code adapted from various random sources on the web. We do not know who is the original source... :(
     Code meant to run on a BotBoarduino with a buzzer powered by a transistor (pin 5).
 	License GNU GPL v3: http://www.gnu.org/licenses/gpl-3.0.en.html
 */
