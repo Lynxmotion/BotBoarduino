@@ -63,6 +63,10 @@ void loop()
   }
   
   // Calculate new servo min, max and position
+  // If you only wish to control one endpoint and not connect one of the two seconday potentiometer,
+  // simply replace one of the following calculation with a fixed value in pulse width (us):
+  // (example 1) // servoMin = RC_MIN_RANGE_MIN;
+  // (example 2) // servoMin = 1000;
   servoMin = map(val[1], POT_ADC_VAL_MIN, POT_ADC_VAL_MAX, RC_MIN_RANGE_MIN, RC_MIN_RANGE_MAX);
   servoMax = map(val[2], POT_ADC_VAL_MIN, POT_ADC_VAL_MAX, RC_MAX_RANGE_MIN, RC_MAX_RANGE_MAX);
   
