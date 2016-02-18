@@ -9,6 +9,6 @@ BotBoarduino: http://www.robotshop.com/en/lynxmotion-botboarduino-robot-controll
 SSC-32U: http://www.robotshop.com/en/lynxmotion-ssc-32u-usb-servo-controller.html
 > [Useful links](http://www.robotshop.com/en/lynxmotion-ssc-32u-usb-servo-controller.html#Useful Links)
 
-> Especially helpful in this example is a list of the commands for the SSC-32U. These can be found in the user [manual on pages 24-26](http://www.lynxmotion.com/images/data/lynxmotion_ssc-32u_usb_user_guide.pdf#page=24) and [pages 32-35](http://www.lynxmotion.com/images/data/lynxmotion_ssc-32u_usb_user_guide.pdf#page=32).
+> Especially helpful in this example is a list of the commands for the SSC-32U. These can be found in the [user manual on pages 24-26](http://www.lynxmotion.com/images/data/lynxmotion_ssc-32u_usb_user_guide.pdf#page=24) and [pages 32-35](http://www.lynxmotion.com/images/data/lynxmotion_ssc-32u_usb_user_guide.pdf#page=32).
 
 License GNU GPL v3: http://www.gnu.org/licenses/gpl-3.0.en.html
