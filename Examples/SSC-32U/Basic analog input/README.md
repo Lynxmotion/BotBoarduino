@@ -2,6 +2,7 @@ Created on 2016-02-18 for RobotShop by scharette.
 This examples uses a BotBoarduino to read analog voltage inputs through an SSC-32U servomotor controller board.
 
 You can find out more about these products here:
+
 BotBoarduino: http://www.robotshop.com/en/lynxmotion-botboarduino-robot-controller.html
 > []Useful links](http://www.robotshop.com/en/lynxmotion-botboarduino-robot-controller.html#Useful Links)
 
