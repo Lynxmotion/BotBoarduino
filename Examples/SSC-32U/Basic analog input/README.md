@@ -4,7 +4,7 @@ This examples uses a BotBoarduino to read analog voltage inputs through an SSC-3
 You can find out more about these products here:
 
 BotBoarduino: http://www.robotshop.com/en/lynxmotion-botboarduino-robot-controller.html
-> []Useful links](http://www.robotshop.com/en/lynxmotion-botboarduino-robot-controller.html#Useful Links)
+> [Useful links](http://www.robotshop.com/en/lynxmotion-botboarduino-robot-controller.html#Useful Links)
 
 SSC-32U: http://www.robotshop.com/en/lynxmotion-ssc-32u-usb-servo-controller.html
 > [Useful links](http://www.robotshop.com/en/lynxmotion-ssc-32u-usb-servo-controller.html#Useful Links)
